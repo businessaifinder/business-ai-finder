@@ -1,5 +1,6 @@
 # Business AI Finder
 
-Business AI Finder is a curated AI tools directory.
+Business AI Finder is a curated AI tools directory for real business workflows.
 
-Visit: https://businessaifinder.com
+- Homepage: [Business AI Finder](https://businessaifinder.com)
+- AI answering comparisons: [AI answering services](https://businessaifinder.com/ai-answering-services/)
